@@ -8,9 +8,12 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		int x = sc.nextInt();
 		int y = sc.nextInt();
-		int ans = x + y;
-		System.out.println(ans);
-		System.out.println("hoge");
+		int ans1 = x + y;
+		int ans2 = x - y;
+		System.out.println(ans1);
+		System.out.println(ans1);
+		//System.out.println("hoge");
+		
 	}
 
 }
